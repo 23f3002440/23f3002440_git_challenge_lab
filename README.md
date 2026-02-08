@@ -3,7 +3,7 @@ This repository showcases the tasks and learnings from the GitHub Workshop condu
 
 
 
-## 📘 Learning Summary – GitHub Workshop (IIITM / IIT Madras)
+## 📘 Learning Summary – GitHub Workshop (IIT Madras)
 
 This repository showcases the hands-on tasks and learnings gained from the **GitHub Workshop conducted by IIITM (IIT Madras)**.  
 The workshop focused on building strong fundamentals in **version control, GitHub workflows, and collaborative development practices**.
@@ -38,10 +38,10 @@ This workshop strengthened my understanding of **source code management** and im
 ## 🧪 Workshop Tasks & Evidence
 
 ### ✅ Task 1: GitHub Basics & File Management
-<img src="./23F3002440_task-1.jpg" width="700">
+<img src="./23F3002440_task-1.png" width="700">
 
 ### ✅ Task 2: Version Control & Commit History
-<img src="./23F3002440_task-2_1.jpg" width="700">
-<img src="./23F3002440_task-2_2.jpg" width="700">
-<img src="./23F3002440_task-2_3.jpg" width="700">
+<img src="./23F3002440_task-2_1.png" width="700">
+<img src="./23F3002440_task-2_2.png" width="700">
+<img src="./23F3002440_task-2_3.png" width="700">
 
