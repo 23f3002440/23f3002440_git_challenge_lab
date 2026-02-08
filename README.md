@@ -29,19 +29,19 @@ The workshop focused on building strong fundamentals in **version control, GitHu
 This workshop strengthened my understanding of **source code management** and improved my confidence in using GitHub for academic projects, team collaboration, and real-world software development workflows.
 
 
-## 🏅 Certificate – GitHub Workshop (IIITM / IIT Madras)
+## 🏅 Certificate – GitHub Workshop (IITM / IIT Madras)
 
 <img src="./23F3002440_CCC_certificate_page-0001.jpg" width="800">
 
 ---
 
 ## 🧪 Workshop Tasks & Evidence
-
 ### ✅ Task 1: GitHub Basics & File Management
-<img src="./23F3002440_task-1.png" width="700">
+<img src="./23f3002440_task-1.png" width="700">
 
 ### ✅ Task 2: Version Control & Commit History
-<img src="./23F3002440_task-2_1.png" width="700">
-<img src="./23F3002440_task-2_2.png" width="700">
-<img src="./23F3002440_task-2_3.png" width="700">
+<img src="./23f3002440_task-2_1.png" width="700">
+<img src="./23f3002440_task-2_2.png" width="700">
+<img src="./23f3002440_task-2_3.png" width="700">
+
 
