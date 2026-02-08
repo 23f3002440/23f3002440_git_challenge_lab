@@ -40,8 +40,14 @@ This workshop strengthened my understanding of **source code management** and im
 <img src="./23f3002440_task-1.png" width="700">
 
 ### ✅ Task 2: Version Control & Commit History
+
+🔹 Task 2.1: Initial Commit & Repository Setup
 <img src="./23f3002440_task-2_1.png" width="700">
+
+🔹 Task 2.2: Commit History & Changes Tracking
 <img src="./23f3002440_task-2_2.png" width="700">
+
+🔹 Task 2.3: Multiple Commits & Version Comparison
 <img src="./23f3002440_task-2_3.png" width="700">
 
 
