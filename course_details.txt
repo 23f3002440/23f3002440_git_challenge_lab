@@ -1,0 +1,4 @@
+Course Code: BSMS2001
+Course Name: Business Data Management
+Term: Jan-Apr 2026
+Credits: 4
