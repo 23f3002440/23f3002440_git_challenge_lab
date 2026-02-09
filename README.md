@@ -5,7 +5,7 @@ This repository showcases the tasks and learnings from the GitHub Workshop condu
 
 ## 📘 Learning Summary – GitHub Workshop (IIT Madras)
 
-This repository showcases the hands-on tasks and learnings gained from the **GitHub Workshop conducted by IIITM (IIT Madras)**.  
+This repository showcases the hands-on tasks and learnings gained from the **GitHub Workshop conducted by IITM (IIT Madras)**.  
 The workshop focused on building strong fundamentals in **version control, GitHub workflows, and collaborative development practices**.
 
 
